@@ -1,0 +1,8 @@
+D:\C#_Projects\Get IP\Get IP\obj\Debug\Get IP.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Get IP\Get IP\obj\Debug\Get_IP.Form1.resources
+D:\C#_Projects\Get IP\Get IP\obj\Debug\Get_IP.Properties.Resources.resources
+D:\C#_Projects\Get IP\Get IP\obj\Debug\Get IP.csproj.GenerateResource.Cache
+D:\C#_Projects\Get IP\Get IP\bin\Debug\Get IP.exe
+D:\C#_Projects\Get IP\Get IP\bin\Debug\Get IP.pdb
+D:\C#_Projects\Get IP\Get IP\obj\Debug\Get IP.exe
+D:\C#_Projects\Get IP\Get IP\obj\Debug\Get IP.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hany\AppData\Local\Temporary Projects\GS_Scal\bin\Release\GS_Scal.exe
+C:\Users\Hany\AppData\Local\Temporary Projects\GS_Scal\bin\Release\GS_Scal.pdb
+C:\Users\Hany\AppData\Local\Temporary Projects\GS_Scal\obj\x86\Release\GS_Scal.exe
+C:\Users\Hany\AppData\Local\Temporary Projects\GS_Scal\obj\x86\Release\GS_Scal.pdb
+D:\C#_Projects\GS_Scal\GS_Scal\bin\Release\GS_Scal.exe
+D:\C#_Projects\GS_Scal\GS_Scal\bin\Release\GS_Scal.pdb
+D:\C#_Projects\GS_Scal\GS_Scal\obj\x86\Release\GS_Scal.exe
+D:\C#_Projects\GS_Scal\GS_Scal\obj\x86\Release\GS_Scal.pdb

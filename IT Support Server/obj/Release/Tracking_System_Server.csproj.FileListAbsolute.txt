@@ -1,0 +1,8 @@
+D:\C#_Projects\Tracking_System_Server\bin\Release\Tracking_System.exe
+D:\C#_Projects\Tracking_System_Server\bin\Release\Tracking_System.pdb
+D:\C#_Projects\Tracking_System_Server\obj\Release\Tracking_System_Server.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Tracking_System_Server\obj\Release\Tracking_System.Server_Form.resources
+D:\C#_Projects\Tracking_System_Server\obj\Release\Tracking_System.Properties.Resources.resources
+D:\C#_Projects\Tracking_System_Server\obj\Release\Tracking_System_Server.csproj.GenerateResource.Cache
+D:\C#_Projects\Tracking_System_Server\obj\Release\Tracking_System.exe
+D:\C#_Projects\Tracking_System_Server\obj\Release\Tracking_System.pdb

@@ -1,0 +1,9 @@
+D:\C#_Projects\Tracking_System_Client\bin\Release\Tracking_System_Client.exe.config
+D:\C#_Projects\Tracking_System_Client\bin\Release\Tracking_System_Client.exe
+D:\C#_Projects\Tracking_System_Client\bin\Release\Tracking_System_Client.pdb
+D:\C#_Projects\Tracking_System_Client\obj\Release\Tracking_System_Client.csprojResolveAssemblyReference.cache
+D:\C#_Projects\Tracking_System_Client\obj\Release\Tracking_System_Client.Client_Form.resources
+D:\C#_Projects\Tracking_System_Client\obj\Release\Tracking_System_Client.Properties.Resources.resources
+D:\C#_Projects\Tracking_System_Client\obj\Release\Tracking_System_Client.csproj.GenerateResource.Cache
+D:\C#_Projects\Tracking_System_Client\obj\Release\Tracking_System_Client.exe
+D:\C#_Projects\Tracking_System_Client\obj\Release\Tracking_System_Client.pdb

@@ -1,0 +1,5 @@
+D:\C#_Projects\GS_Scal\GS_Scal\bin\Release\GS_SC.exe
+D:\C#_Projects\GS_Scal\GS_Scal\bin\Release\GS_SC.pdb
+D:\C#_Projects\GS_Scal\GS_Scal\obj\x86\Release\GS_SC.exe
+D:\C#_Projects\GS_Scal\GS_Scal\obj\x86\Release\GS_SC.pdb
+D:\C#_Projects\GS_Scal\GS_Scal\obj\x86\Release\GS_SC.csprojResolveAssemblyReference.cache

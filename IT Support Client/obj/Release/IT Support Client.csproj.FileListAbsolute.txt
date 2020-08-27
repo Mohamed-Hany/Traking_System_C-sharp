@@ -1,0 +1,9 @@
+D:\C#_Projects\IT Support Client\bin\Release\IT Support Client.exe.config
+D:\C#_Projects\IT Support Client\bin\Release\IT Support Client.exe
+D:\C#_Projects\IT Support Client\bin\Release\IT Support Client.pdb
+D:\C#_Projects\IT Support Client\obj\Release\IT Support Client.csprojResolveAssemblyReference.cache
+D:\C#_Projects\IT Support Client\obj\Release\Tracking_System_Client.Client_Form.resources
+D:\C#_Projects\IT Support Client\obj\Release\Tracking_System_Client.Properties.Resources.resources
+D:\C#_Projects\IT Support Client\obj\Release\IT Support Client.csproj.GenerateResource.Cache
+D:\C#_Projects\IT Support Client\obj\Release\IT Support Client.exe
+D:\C#_Projects\IT Support Client\obj\Release\IT Support Client.pdb
